@@ -95,7 +95,7 @@ the out on com 3 TERNET .wbsltd_ Check 45 Ilwww_ http:/f
 
 ```json
 {
- "file": "Modules/METER/M445/PHOTOS/1996 - M445 - Archived - M445 - EXTENDED RANGE METER - MONITOR 002.jpg",
+ "file": "Modules/METER/M445/MANUALS/1996 - M445 - Archived - M445 - EXTENDED RANGE METER - MONITOR 002.jpg",
  "sha256": "9aa0c49404f98d4cc881060f8d5dd4bfc4ee2acb58f9e4cc776c7780e81d3c79",
  "kind": "module",
  "models": [
