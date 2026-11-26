@@ -1,0 +1,115 @@
+{
+ "drawing": "Modules/METER/M445/MECHANICAL/1995 - 445-03-016 - EXTENDED RANGE METER SPEAKER SCREEN - DRN DRG - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/ec294bd3bd7845f2.svg",
+ "sheet": {
+  "number": "B 445-03-016",
+  "title": "M445 / EXTENDED RANGE METER / SPEAKER SCREEN",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [37.6, 1.7, 431.4, 298.2],
+ "outlines": {
+  "line": {"rings": 61, "straight": {"n": 1036, "mm": 4233.9}, "curved": {"n": 134, "mm": 199.8}},
+  "text": {"rings": 477, "straight": {"n": 2937, "mm": 3319.4}, "curved": {"n": 981, "mm": 1359.4}},
+  "tb": {"rings": 61, "straight": {"n": 662, "mm": 1916.9}, "curved": {"n": 117, "mm": 149.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 574, "straight": {"n": 637, "mm": 2251.2}, "curved": {"n": 7, "mm": 6.2}},
+   "text": {"paths": 2553, "straight": {"n": 3438, "mm": 2364.1}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 465, "straight": {"n": 527, "mm": 1005.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 78,
+  "orientation": {"horizontal": {"n": 1146, "mm": 2269.4}, "vertical": {"n": 1178, "mm": 1599.7}, "diagonal": {"n": 2278, "mm": 1752.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [172.0, 210.4], "r": 1.3, "kind": "arc", "span": 167, "from": ["centre line"], "start": 283},
+  {"c": [195.2, 174.1], "r": 1.2, "kind": "arc", "span": 131, "from": ["centre line"], "start": 29}
+ ],
+ "boxes": [{"mm": [201.9, 122.2, 242.5, 181.8], "w": 40.6, "h": 59.6, "from": "ring"}],
+ "text": {
+  "words": 50,
+  "lines": [
+   {"mm": [215.7, 221.3, 228.0, 226.1], "text": "2.220"},
+   {"mm": [215.7, 207.9, 228.0, 213.4], "text": "2.060"},
+   {"mm": [174.0, 207.9, 182.7, 212.2], "text": "080"},
+   {"mm": [130.8, 195.4, 143.4, 200.9], "text": "0.215"},
+   {"mm": [170.8, 196.0, 182.7, 200.4], "text": "0.335"},
+   {"mm": [216.1, 196.0, 228.0, 200.4], "text": "1.550"},
+   {"mm": [152.4, 188.9, 161.7, 194.4], "text": "070"},
+   {"mm": [267.5, 187.4, 288.0, 191.7], "text": "0.130 DIA"},
+   {"mm": [294.9, 187.4, 312.2, 192.2], "text": "4 REQ'D"},
+   {"mm": [170.8, 176.6, 183.3, 182.1], "text": "0.358"},
+   {"mm": [144.2, 144.7, 184.4, 154.8], "text": "2.620  2.300 2.062"},
+   {"mm": [141.2, 101.5, 163.9, 105.8], "text": "0.093 RAD"},
+   {"mm": [165.4, 102.1, 172.9, 106.4], "text": "TYP"},
+   {"mm": [258.9, 101.5, 309.6, 107.0], "text": "0.12 RAD 4 CORNERS"},
+   {"mm": [36.9, 60.5, 52.0, 65.2], "text": "NOTES:"},
+   {"mm": [96.3, 56.1, 125.4, 61.7], "text": "SHARP EDGES"},
+   {"mm": [42.3, 55.5, 94.8, 61.0], "text": "REMOVE ALL BURRS AND"},
+   {"mm": [116.6, 50.7, 155.4, 57.2], "text": "XXXX =+/-0.005"},
+   {"mm": [37.6, 51.4, 82.3, 56.9], "text": "2.  TOLERANCES: XXX"},
+   {"mm": [93.1, 51.4, 110.3, 56.2], "text": "/-0.015"},
+   {"mm": [43.4, 46.9, 64.6, 51.2], "text": "MATERIAL:"},
+   {"mm": [66.7, 46.9, 121.8, 52.4], "text": "PERFORATED CR.S 24 GA_"},
+   {"mm": [361.4, 49.2, 375.5, 52.3], "text": "REMSION"},
+   {"mm": [407.6, 49.9, 413.4, 52.0], "text": "APP"},
+   {"mm": [66.1, 42.1, 85.5, 47.6], "text": "1/16 DIA:"},
+   {"mm": [87.2, 42.7, 123.3, 48.3], "text": "PERFORATION   ON"},
+   {"mm": [305.3, 42.1, 331.2, 46.4], "text": "WES"},
+   {"mm": [342.4, 42.1, 379.8, 47.6], "text": "WARD-BECK"},
+   {"mm": [382.4, 42.7, 410.0, 48.3], "text": "SYSTEMS"},
+   {"mm": [67.8, 37.8, 120.0, 43.3], "text": "/8 STAGGERED   CENTERS:"},
+   {"mm": [298.8, 36.3, 324.7, 40.1], "text": "DRN: DRC(AuG95)"},
+   {"mm": [364.7, 35.0, 378.7, 40.5], "text": "M445"},
+   {"mm": [43.0, 31.7, 58.1, 36.5], "text": "FINISH:"},
+   {"mm": [60.2, 31.7, 120.0, 37.3], "text": "PAINT EXTRA FINE TEXTURED"},
+   {"mm": [299.0, 33.7, 306.1, 35.8], "text": "ENC:"},
+   {"mm": [345.7, 31.3, 397.5, 36.1], "text": "EXTENDED RANGE METER"},
+   {"mm": [60.2, 27.6, 107.7, 32.4], "text": "BLACK   TEXCOTE VNYL:"},
+   {"mm": [353.2, 27.0, 389.9, 32.5], "text": "SPEAKERSCREEN"},
+   {"mm": [403.7, 25.0, 411.9, 27.2], "text": "ISSUE"},
+   {"mm": [313.5, 20.7, 322.1, 22.9], "text": "CODE:"},
+   {"mm": [359.3, 21.2, 390.6, 26.4], "text": "445-03-016"}
+  ]
+ },
+ "title_block": {
+  "mm": [290.1, 19.0, 422.1, 58.2],
+  "from": "title-block words (training set)",
+  "text": [
+   "REMSION",
+   "APP",
+   "WES",
+   "WARD-BECK",
+   "SYSTEMS",
+   "DRN: DRC(AuG95)",
+   "M445",
+   "ENC:",
+   "EXTENDED RANGE METER",
+   "SPEAKERSCREEN",
+   "ISSUE",
+   "CODE:",
+   "445-03-016"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 445-03-016, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 38–431 mm across, 2–298 mm up",
+  "- **Outlines:** line 61 rings, 1,036 straight (4,234 mm) / 134 curved (200 mm); text 477 rings, 2,937 straight (3,319 mm) / 981 curved (1,359 mm); tb 61 rings, 662 straight (1,917 mm) / 117 curved (150 mm)",
+  "- **Centre lines:** 3,592 paths (78 closed); straight 5,621 mm, curved 6.2 mm; horizontal 2,269 mm, vertical 1,600 mm, diagonal 1,752 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 50 in 41 lines: 2.220 · 2.060 · 080 · 0.215 · 0.335 · 1.550 · 070 · 0.130 DIA · 4 REQ'D · 0.358 · 2.620  2.300 2.062 · 0.093 RAD",
+  "- **Title block:** (290, 19)–(422, 58) mm: REMSION · APP · WES · WARD-BECK · SYSTEMS · DRN: DRC(AuG95) · M445 · ENC: · EXTENDED RANGE METER · SPEAKERSCREEN · ISSUE · CODE: · 445-03-016"
+ ]
+}

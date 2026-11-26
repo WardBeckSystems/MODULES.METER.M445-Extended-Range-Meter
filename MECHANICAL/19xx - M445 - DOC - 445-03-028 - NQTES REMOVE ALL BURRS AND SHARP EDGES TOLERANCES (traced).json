@@ -1,0 +1,139 @@
+{
+ "drawing": "Modules/METER/M445/MECHANICAL/19xx - M445 - DOC - 445-03-028 - NQTES REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg",
+ "version": 1,
+ "trace": "_traces/456b5fa4f8611750.svg",
+ "sheet": {
+  "number": "445-03-028",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [55.3, 7.9, 431.4, 298.2],
+ "outlines": {
+  "line": {"rings": 96, "straight": {"n": 1814, "mm": 7392.1}, "curved": {"n": 160, "mm": 351.1}},
+  "text": {"rings": 400, "straight": {"n": 2446, "mm": 2756.8}, "curved": {"n": 844, "mm": 1163.3}},
+  "tb": {"rings": 7, "straight": {"n": 54, "mm": 61.5}, "curved": {"n": 16, "mm": 17.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 569, "straight": {"n": 649, "mm": 3071.0}, "curved": {"n": 9, "mm": 7.9}},
+   "text": {"paths": 1907, "straight": {"n": 2659, "mm": 1905.8}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 171, "straight": {"n": 191, "mm": 818.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 53,
+  "orientation": {"horizontal": {"n": 849, "mm": 3123.8}, "vertical": {"n": 885, "mm": 1098.8}, "diagonal": {"n": 1765, "mm": 1572.3}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [72.0, 54.4], "r": 1.3, "kind": "arc", "span": 141, "from": ["centre line"], "start": 65},
+  {"c": [79.3, 134.2], "r": 1.2, "kind": "arc", "span": 121, "from": ["centre line"], "start": 105},
+  {"c": [121.1, 166.2], "r": 0.9, "kind": "arc", "span": 158, "from": ["centre line"], "start": 349}
+ ],
+ "boxes": [
+  {"mm": [319.3, 59.6, 403.9, 65.2], "w": 84.6, "h": 5.6, "from": "ring", "words": ["REVSION"], "in_title_block": true},
+  {"mm": [404.4, 60.0, 413.0, 65.2], "w": 8.6, "h": 5.2, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [308.7, 59.6, 318.9, 64.8], "w": 10.1, "h": 5.2, "from": "ring", "in_title_block": true},
+  {
+   "mm": [312.8, 37.4, 413.0, 59.6],
+   "w": 100.2,
+   "h": 22.3,
+   "from": "ring",
+   "words": ["M445", "METERS", "VU", "SECURING", "BRACKET"],
+   "in_title_block": true
+  },
+  {"mm": [282.0, 54.0, 312.6, 59.2], "w": 30.7, "h": 5.2, "from": "ring", "words": ["DRN:", "WS"], "in_title_block": true},
+  {"mm": [282.0, 48.4, 312.6, 53.5], "w": 30.7, "h": 5.2, "from": "ring", "words": ["WS", "ENG:"], "in_title_block": true},
+  {"mm": [282.0, 42.7, 312.6, 48.1], "w": 30.7, "h": 5.4, "from": "ring", "words": ["CKD:"], "in_title_block": true},
+  {"mm": [282.2, 37.1, 312.6, 42.5], "w": 30.4, "h": 5.4, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [338.3, 26.6, 399.2, 37.4], "w": 60.9, "h": 10.8, "from": "ring", "words": ["445-03-028"], "in_title_block": true},
+  {"mm": [399.6, 26.8, 413.0, 37.4], "w": 13.4, "h": 10.6, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [329.0, 26.3, 338.1, 37.1], "w": 9.1, "h": 10.8, "from": "ring", "in_title_block": true},
+  {"mm": [282.2, 26.1, 297.7, 36.7], "w": 15.5, "h": 10.6, "from": "ring", "words": ["SCALE"], "in_title_block": true},
+  {"mm": [298.2, 26.3, 328.6, 31.7], "w": 30.4, "h": 5.4, "from": "ring", "words": ["CODE: MM445-28"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 53,
+  "lines": [
+   {"mm": [169.3, 228.4, 181.1, 232.7], "text": "7.618"},
+   {"mm": [276.6, 208.3, 288.4, 213.1], "text": "0.725"},
+   {"mm": [75.3, 189.6, 117.4, 195.1], "text": "0.375x45* CHAMFER:"},
+   {"mm": [88.3, 185.7, 104.9, 191.2], "text": "2 PLCS"},
+   {"mm": [168.2, 172.3, 180.1, 176.6], "text": "7.493"},
+   {"mm": [123.3, 164.1, 131.5, 168.9], "text": "809"},
+   {"mm": [89.8, 157.6, 101.7, 161.9], "text": "0.125"},
+   {"mm": [286.9, 137.1, 298.2, 141.9], "text": "1.120"},
+   {"mm": [276.6, 127.4, 289.1, 132.9], "text": "0.370"},
+   {"mm": [225.4, 123.7, 248.5, 129.0], "text": "1.125 RAD."},
+   {"mm": [232.3, 120.5, 240.9, 125.3], "text": "TYP_"},
+   {"mm": [99.5, 113.3, 107.7, 118.1], "text": "967"},
+   {"mm": [189.8, 112.3, 201.7, 117.1], "text": "0.057"},
+   {"mm": [144.9, 105.8, 156.3, 110.6], "text": "5.651"},
+   {"mm": [198.4, 97.8, 220.0, 102.1], "text": "0.140 DIA,"},
+   {"mm": [221.5, 97.8, 238.4, 103.3], "text": "3 PLC'S"},
+   {"mm": [70.8, 66.1, 89.2, 72.5], "text": "NQTES;"},
+   {"mm": [76.4, 57.2, 93.1, 62.0], "text": "REMOVE"},
+   {"mm": [94.8, 57.2, 158.9, 62.7], "text": "ALL BURRS AND SHARP EDGES"},
+   {"mm": [352.8, 60.0, 369.0, 64.3], "text": "REVSION"},
+   {"mm": [405.0, 60.5, 412.2, 64.3], "text": "APP"},
+   {"mm": [169.3, 51.8, 181.1, 57.1], "text": "0.005"},
+   {"mm": [282.0, 54.6, 299.2, 58.5], "text": "DRN: WS"},
+   {"mm": [353.0, 52.0, 370.9, 59.0], "text": "M445"},
+   {"mm": [76.9, 51.4, 115.3, 56.9], "text": "TOLERANCES: XXX"},
+   {"mm": [127.6, 51.8, 156.7, 56.6], "text": "0.015 XXXX"},
+   {"mm": [282.0, 48.6, 290.6, 52.9], "text": "ENG:"},
+   {"mm": [293.4, 49.2, 299.2, 53.1], "text": "WS"},
+   {"mm": [76.9, 45.3, 115.7, 50.9], "text": "MATL: 0.064 THK."},
+   {"mm": [117.9, 46.0, 145.9, 51.5], "text": "ALUM:   ALLOY."},
+   {"mm": [344.4, 45.6, 353.0, 52.0], "text": "VU"},
+   {"mm": [355.8, 45.1, 380.0, 52.1], "text": "METERS"},
+   {"mm": [76.9, 39.9, 126.5, 45.2], "text": "FINISH: CLEAR ALODINE:"},
+   {"mm": [282.6, 43.2, 290.6, 47.0], "text": "CKD:"},
+   {"mm": [330.8, 38.0, 392.5, 45.0], "text": "SECURING BRACKET"},
+   {"mm": [282.6, 37.8, 290.2, 41.6], "text": "APP"},
+   {"mm": [284.8, 31.7, 329.0, 36.2], "text": "SCALE DISC NOM: 14445"},
+   {"mm": [400.7, 33.0, 411.5, 37.4], "text": "ISSUE"},
+   {"mm": [343.3, 28.3, 384.7, 35.2], "text": "445-03-028"},
+   {"mm": [298.8, 26.3, 328.4, 30.7], "text": "CODE: MM445-28"}
+  ],
+  "scale": "DISC NOM: 14445"
+ },
+ "title_block": {
+  "mm": [273.4, 26.3, 420.7, 70.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "REVSION",
+   "APP",
+   "DRN: WS",
+   "M445",
+   "ENG:",
+   "WS",
+   "VU",
+   "METERS",
+   "CKD:",
+   "SECURING BRACKET",
+   "APP",
+   "SCALE DISC NOM: 14445",
+   "ISSUE",
+   "445-03-028",
+   "CODE: MM445-28"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 445-03-028, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px); scale DISC NOM: 14445",
+  "- **Ink extent:** 55–431 mm across, 8–298 mm up",
+  "- **Outlines:** line 96 rings, 1,814 straight (7,392 mm) / 160 curved (351 mm); text 400 rings, 2,446 straight (2,757 mm) / 844 curved (1,163 mm); tb 7 rings, 54 straight (61.5 mm) / 16 curved (17.5 mm)",
+  "- **Centre lines:** 2,647 paths (53 closed); straight 5,795 mm, curved 7.9 mm; horizontal 3,124 mm, vertical 1,099 mm, diagonal 1,572 mm",
+  "- **Circles and arcs:** 0 circles, 3 arcs",
+  "- **Closed boxes:** 13 (13 in the title block)",
+  "- **Words (OCR):** 53 in 40 lines: 7.618 · 0.725 · 0.375x45* CHAMFER: · 2 PLCS · 7.493 · 809 · 0.125 · 1.120 · 0.370 · 1.125 RAD. · TYP_ · 967",
+  "- **Title block:** (273, 26)–(421, 70) mm: REVSION · APP · DRN: WS · M445 · ENG: · WS · VU · METERS · CKD: · SECURING BRACKET · APP · SCALE DISC NOM: 14445 · ISSUE · 445-03-028 · CODE: MM445-28"
+ ]
+}

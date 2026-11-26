@@ -1,0 +1,121 @@
+{
+ "drawing": "Modules/METER/M445/MECHANICAL/19xx - M445 - DOC - 445-03-007 - NQTES REMOVE ALL BURRS AND SHARP EDGES.jpg",
+ "version": 1,
+ "trace": "_traces/109c16c69a5f6e6b.svg",
+ "sheet": {
+  "number": "445-03-007",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [46.6, 0.0, 431.6, 298.2],
+ "outlines": {
+  "line": {"rings": 78, "straight": {"n": 882, "mm": 2497.1}, "curved": {"n": 138, "mm": 243.1}},
+  "text": {"rings": 374, "straight": {"n": 2309, "mm": 2658.3}, "curved": {"n": 791, "mm": 1091.5}},
+  "tb": {"rings": 17, "straight": {"n": 359, "mm": 1567.4}, "curved": {"n": 30, "mm": 43.4}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 913, "straight": {"n": 960, "mm": 1372.5}, "curved": {"n": 47, "mm": 92.4}},
+   "text": {"paths": 1696, "straight": {"n": 2432, "mm": 1857.3}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 154, "straight": {"n": 159, "mm": 769.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 65,
+  "orientation": {"horizontal": {"n": 857, "mm": 1510.5}, "vertical": {"n": 917, "mm": 1037.3}, "diagonal": {"n": 1777, "mm": 1451.5}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [167.7, 136.0], "r": 6.2, "kind": "circle", "span": 354, "from": ["centre line"]},
+  {"c": [167.7, 155.5], "r": 6.2, "kind": "circle", "span": 358, "from": ["centre line"]},
+  {"c": [167.8, 122.7], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [174.2, 99.5], "r": 1.4, "kind": "arc", "span": 173, "from": ["centre line"], "start": 280},
+  {"c": [171.5, 99.5], "r": 1.2, "kind": "circle", "span": 282, "from": ["centre line"]},
+  {"c": [47.8, 34.7], "r": 1.1, "kind": "arc", "span": 235, "from": ["centre line"], "start": 142},
+  {"c": [47.9, 29.5], "r": 0.9, "kind": "arc", "span": 204, "from": ["centre line"], "start": 57}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 52,
+  "lines": [
+   {"mm": [212.4, 189.6, 233.4, 193.9], "text": "0.468 DIA;"},
+   {"mm": [161.7, 183.1, 173.6, 187.4], "text": "0.775"},
+   {"mm": [212.4, 185.2, 229.7, 190.8], "text": "2 PLC'S."},
+   {"mm": [136.9, 177.0, 149.2, 181.4], "text": "0.400 ."},
+   {"mm": [224.3, 168.0, 232.3, 172.3], "text": "TAP"},
+   {"mm": [234.0, 168.0, 256.7, 172.8], "text": "6-32 THR'"},
+   {"mm": [224.3, 163.7, 240.9, 169.2], "text": "2 PLC'S"},
+   {"mm": [145.5, 150.1, 156.7, 154.4], "text": "1.750"},
+   {"mm": [201.7, 143.1, 213.5, 147.9], "text": "2.150"},
+   {"mm": [136.2, 142.5, 148.1, 147.3], "text": "0.750"},
+   {"mm": [196.7, 135.6, 204.9, 139.9], "text": "775"},
+   {"mm": [134.7, 124.1, 146.6, 128.9], "text": "0.700"},
+   {"mm": [184.4, 119.8, 196.7, 125.3], "text": "0.375"},
+   {"mm": [128.2, 108.0, 140.1, 112.7], "text": "0.200"},
+   {"mm": [135.8, 102.6, 147.7, 107.4], "text": "0.600"},
+   {"mm": [207.0, 90.7, 227.6, 95.5], "text": "0.130 DIA."},
+   {"mm": [207.0, 86.4, 224.3, 91.2], "text": "2 PLC'S;"},
+   {"mm": [296.6, 53.5, 306.8, 57.4], "text": "ISSUE"},
+   {"mm": [340.3, 53.5, 356.5, 57.4], "text": "REVISION"},
+   {"mm": [391.9, 54.2, 399.0, 57.8], "text": "ApP"},
+   {"mm": [45.8, 45.1, 64.8, 51.6], "text": "NQTES;"},
+   {"mm": [270.1, 48.1, 286.9, 52.0], "text": "DRN: WS"},
+   {"mm": [341.1, 45.1, 358.4, 52.1], "text": "M445"},
+   {"mm": [270.1, 42.7, 286.9, 46.6], "text": "ENG. WS"},
+   {"mm": [310.5, 38.0, 388.6, 45.6], "text": "EXTENDED RANGE METER"},
+   {"mm": [51.6, 36.3, 103.8, 41.8], "text": "REMOVE ALL BURRS AND"},
+   {"mm": [105.6, 36.3, 134.7, 41.1], "text": "SHARP EDGES"},
+   {"mm": [270.1, 37.4, 277.6, 41.2], "text": "CKD:"},
+   {"mm": [52.7, 31.7, 90.5, 36.5], "text": "TOLERANCES: XXX"},
+   {"mm": [103.4, 31.3, 131.9, 36.1], "text": "0.015 XXXX"},
+   {"mm": [147.7, 31.3, 156.7, 36.6], "text": "005"},
+   {"mm": [270.1, 31.3, 277.6, 35.6], "text": "APP_"},
+   {"mm": [331.4, 31.5, 347.6, 38.0], "text": "JACK"},
+   {"mm": [349.8, 31.1, 367.5, 38.0], "text": "STRIP"},
+   {"mm": [52.0, 27.6, 66.1, 32.4], "text": "MATL:"},
+   {"mm": [68.2, 27.0, 113.1, 32.5], "text": "0.375  THK, NACOLITE:"},
+   {"mm": [272.2, 25.5, 316.5, 30.2], "text": "SCALE DISC NOM: |M445"},
+   {"mm": [272.5, 20.3, 315.0, 26.8], "text": "1:1 CODE: MM445-7"},
+   {"mm": [330.8, 21.8, 371.8, 28.3], "text": "445-03-007"},
+   {"mm": [388.4, 26.3, 398.6, 30.2], "text": "ISSUE"}
+  ],
+  "scale": "DISC NOM: |M445"
+ },
+ "title_block": {
+  "mm": [261.5, 19.8, 407.7, 63.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE",
+   "REVISION",
+   "ApP",
+   "DRN: WS",
+   "M445",
+   "ENG. WS",
+   "EXTENDED RANGE METER",
+   "CKD:",
+   "APP_",
+   "JACK",
+   "STRIP",
+   "SCALE DISC NOM: |M445",
+   "1:1 CODE: MM445-7",
+   "445-03-007",
+   "ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 445-03-007, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px); scale DISC NOM: |M445",
+  "- **Ink extent:** 47–432 mm across, 0–298 mm up",
+  "- **Outlines:** line 78 rings, 882 straight (2,497 mm) / 138 curved (243 mm); text 374 rings, 2,309 straight (2,658 mm) / 791 curved (1,092 mm); tb 17 rings, 359 straight (1,567 mm) / 30 curved (43.4 mm)",
+  "- **Centre lines:** 2,763 paths (65 closed); straight 3,999 mm, curved 92.4 mm; horizontal 1,510 mm, vertical 1,037 mm, diagonal 1,452 mm",
+  "- **Circles and arcs:** 4 circles, 3 arcs; largest r 6.2 @ (167.7, 136.0), r 6.2 @ (167.7, 155.5), r 2.0 @ (167.8, 122.7), r 1.2 @ (171.5, 99.5)",
+  "- **Words (OCR):** 52 in 40 lines: 0.468 DIA; · 0.775 · 2 PLC'S. · 0.400 . · TAP · 6-32 THR' · 2 PLC'S · 1.750 · 2.150 · 0.750 · 775 · 0.700",
+  "- **Title block:** (262, 20)–(408, 64) mm: ISSUE · REVISION · ApP · DRN: WS · M445 · ENG. WS · EXTENDED RANGE METER · CKD: · APP_ · JACK · STRIP · SCALE DISC NOM: |M445 · 1:1 CODE: MM445-7 · 445-03-007 · ISSUE"
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/METER/M445/MECHANICAL/1996 - M445 - B 445-04-003 - M445 EXTENDED RANGE METER-MONITOR - REAR PANEL LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/6f30d08576c4b03d.svg",
+ "sheet": {
+  "number": "445-04-003",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 270,
+  "px": [1753, 1240],
+  "mm": [431.8, 305.4],
+  "mm_per_px": 0.24632
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [18.0, 0.0, 431.8, 304.7],
+ "outlines": {
+  "line": {"rings": 448, "straight": {"n": 3171, "mm": 7377.5}, "curved": {"n": 789, "mm": 1473.2}},
+  "text": {"rings": 47, "straight": {"n": 348, "mm": 351.7}, "curved": {"n": 106, "mm": 138.3}}
+ },
+ "circles": [
+  {"c": [305.9, 143.4], "r": 7.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [126.1, 139.3], "r": 6.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [125.8, 87.3], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [229.9, 87.1], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [98.1, 87.4], "r": 4.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [103.2, 139.4], "r": 4.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [305.7, 87.0], "r": 4.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [190.4, 144.2], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [190.3, 149.1], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [270.3, 149.2], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [102.7, 120.8], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [381.1, 118.5, 399.5, 180.3], "w": 18.4, "h": 61.8, "from": "ring"},
+  {"mm": [60.1, 118.7, 78.8, 179.8], "w": 18.7, "h": 61.1, "from": "ring"},
+  {"mm": [90.6, 165.3, 134.5, 170.7], "w": 43.8, "h": 5.4, "from": "ring"},
+  {"mm": [187.7, 141.1, 192.9, 152.2], "w": 5.2, "h": 11.1, "from": "ring"},
+  {"mm": [268.0, 141.4, 273.2, 152.2], "w": 5.2, "h": 10.8, "from": "ring"},
+  {"mm": [355.9, 119.5, 358.2, 121.9], "w": 2.2, "h": 2.5, "from": "ring"},
+  {"mm": [349.5, 33.3, 353.9, 36.2], "w": 4.4, "h": 3.0, "from": "ring"},
+  {"mm": [378.1, 33.7, 380.3, 36.2], "w": 2.2, "h": 2.5, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 445-04-003, size B (assumed) 432 × 305 mm, 1753 × 1240 px traced (0.246 mm/px), turned 270°",
+  "- **Ink extent:** 18–432 mm across, 0–305 mm up",
+  "- **Outlines:** line 448 rings, 3,171 straight (7,378 mm) / 789 curved (1,473 mm); text 47 rings, 348 straight (352 mm) / 106 curved (138 mm)",
+  "- **Circles and arcs:** 11 circles, 0 arcs; largest r 7.2 @ (305.9, 143.4), r 6.9 @ (126.1, 139.3), r 4.9 @ (125.8, 87.3), r 4.9 @ (229.9, 87.1)",
+  "- **Closed boxes:** 8"
+ ]
+}

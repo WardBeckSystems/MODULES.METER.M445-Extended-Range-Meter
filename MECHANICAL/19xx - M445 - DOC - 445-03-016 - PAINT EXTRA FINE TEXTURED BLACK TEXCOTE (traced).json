@@ -1,0 +1,135 @@
+{
+ "drawing": "Modules/METER/M445/MECHANICAL/19xx - M445 - DOC - 445-03-016 - PAINT EXTRA FINE TEXTURED BLACK TEXCOTE.jpg",
+ "version": 1,
+ "trace": "_traces/edeff86529b3412b.svg",
+ "sheet": {
+  "number": "445-03-016",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [37.6, 1.7, 431.4, 298.2],
+ "outlines": {
+  "line": {"rings": 81, "straight": {"n": 1443, "mm": 5826.8}, "curved": {"n": 164, "mm": 239.8}},
+  "text": {"rings": 481, "straight": {"n": 2980, "mm": 3369.9}, "curved": {"n": 973, "mm": 1341.8}},
+  "tb": {"rings": 39, "straight": {"n": 247, "mm": 315.3}, "curved": {"n": 73, "mm": 91.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 631, "straight": {"n": 690, "mm": 2271.0}, "curved": {"n": 7, "mm": 6.1}},
+   "text": {"paths": 2588, "straight": {"n": 3471, "mm": 2385.0}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 424, "straight": {"n": 489, "mm": 979.5}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 79,
+  "orientation": {"horizontal": {"n": 1159, "mm": 2275.7}, "vertical": {"n": 1198, "mm": 1601.7}, "diagonal": {"n": 2293, "mm": 1758.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [195.2, 174.2], "r": 1.3, "kind": "arc", "span": 108, "from": ["centre line"], "start": 10},
+  {"c": [172.0, 210.4], "r": 1.3, "kind": "arc", "span": 167, "from": ["centre line"], "start": 283}
+ ],
+ "boxes": [
+  {"mm": [201.9, 122.0, 242.5, 181.8], "w": 40.6, "h": 59.8, "from": "ring"},
+  {"mm": [331.8, 49.4, 406.8, 52.5], "w": 74.9, "h": 3.1, "from": "ring", "words": ["REVSiOR"], "in_title_block": true},
+  {"mm": [322.6, 49.2, 331.4, 52.2], "w": 8.9, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [298.8, 39.8, 414.5, 49.6], "w": 115.7, "h": 9.8, "from": "ring", "words": ["SYSTEMS", "WARD-BECK", "WEBS"], "in_title_block": true},
+  {
+   "mm": [326.2, 26.8, 414.5, 40.2],
+   "w": 88.3,
+   "h": 13.4,
+   "from": "ring",
+   "words": ["M445", "EXTENDED RANGE METER", "SPEAKER", "SCREEN"],
+   "in_title_block": true
+  },
+  {"mm": [323.4, 36.9, 325.8, 39.7], "w": 2.4, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [299.0, 33.5, 325.8, 36.5], "w": 26.8, "h": 3.0, "from": "ring", "words": ["ENC:"], "in_title_block": true},
+  {"mm": [299.0, 27.0, 325.8, 30.1], "w": 26.8, "h": 3.1, "from": "ring", "in_title_block": true},
+  {"mm": [348.7, 20.7, 402.4, 27.0], "w": 53.8, "h": 6.3, "from": "ring", "words": ["445-03-016"], "in_title_block": true},
+  {"mm": [402.7, 20.9, 414.5, 27.0], "w": 11.9, "h": 6.0, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [340.3, 20.7, 348.2, 26.8], "w": 8.0, "h": 6.0, "from": "ring", "in_title_block": true},
+  {"mm": [313.1, 20.5, 339.8, 23.5], "w": 26.8, "h": 3.0, "from": "ring", "words": ["4ML5-16", "CODE:"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 51,
+  "lines": [
+   {"mm": [215.7, 221.3, 228.0, 226.1], "text": "2.220"},
+   {"mm": [215.7, 207.9, 228.0, 213.4], "text": "2.060"},
+   {"mm": [174.0, 207.9, 182.7, 212.2], "text": "080"},
+   {"mm": [130.8, 195.4, 143.4, 200.9], "text": "0.215"},
+   {"mm": [170.8, 196.0, 182.7, 200.4], "text": "0.335"},
+   {"mm": [216.1, 196.0, 228.0, 200.4], "text": "1.550"},
+   {"mm": [152.4, 188.9, 161.7, 194.4], "text": "070"},
+   {"mm": [267.5, 187.4, 288.0, 191.7], "text": "0.130 DIA"},
+   {"mm": [294.9, 187.4, 312.2, 192.2], "text": "4 REQ'D"},
+   {"mm": [170.8, 176.6, 183.3, 182.1], "text": "0.358"},
+   {"mm": [158.5, 149.0, 170.8, 154.2], "text": "2.300"},
+   {"mm": [144.4, 146.8, 156.7, 151.6], "text": "2.620"},
+   {"mm": [171.9, 144.7, 184.4, 150.2], "text": "2.062"},
+   {"mm": [141.2, 101.5, 172.9, 107.0], "text": "0.093 RAD TYP"},
+   {"mm": [258.9, 101.5, 309.6, 107.0], "text": "0.12 RAD 4 CORNERS"},
+   {"mm": [36.9, 60.5, 52.0, 65.2], "text": "NOTES:"},
+   {"mm": [96.3, 56.1, 125.4, 61.7], "text": "SHARP EDGES_"},
+   {"mm": [42.3, 55.5, 94.8, 61.0], "text": "REMOVE ALL BURRS AND"},
+   {"mm": [116.6, 50.7, 155.4, 57.2], "text": "XXXX =+/-0.005"},
+   {"mm": [37.6, 51.4, 82.3, 56.9], "text": "2.  TOLERANCES: XXX"},
+   {"mm": [93.1, 51.4, 110.3, 56.2], "text": "/-0.015"},
+   {"mm": [43.4, 46.9, 122.2, 52.4], "text": "MATERIAL:    PERFORATED CR.S_ 24 GA:"},
+   {"mm": [361.6, 49.9, 374.6, 52.0], "text": "REVSiOR"},
+   {"mm": [66.1, 42.1, 85.5, 47.6], "text": "1/16 DIA:"},
+   {"mm": [87.2, 42.7, 123.3, 48.3], "text": "PERFORATION   ON"},
+   {"mm": [304.9, 42.1, 330.3, 46.9], "text": "WEBS"},
+   {"mm": [342.4, 42.1, 379.8, 47.6], "text": "WARD-BECK"},
+   {"mm": [382.4, 42.7, 410.0, 48.3], "text": "SYSTEMS"},
+   {"mm": [67.8, 37.8, 120.0, 43.3], "text": "/8 STAGGERED   CENTERS:"},
+   {"mm": [298.8, 36.3, 324.7, 40.1], "text": "DRN: DRC(Aug95)"},
+   {"mm": [364.7, 35.0, 378.7, 40.5], "text": "M445"},
+   {"mm": [43.0, 31.7, 86.6, 36.5], "text": "FINISH: PAINT EXTRA"},
+   {"mm": [88.3, 31.7, 120.0, 37.3], "text": "FINE  TEXTURED"},
+   {"mm": [299.0, 33.7, 306.1, 35.8], "text": "ENC:"},
+   {"mm": [345.7, 31.3, 397.5, 36.1], "text": "EXTENDED RANGE METER"},
+   {"mm": [60.2, 27.6, 106.7, 32.4], "text": "BLACK   TEXCOTE VNYL"},
+   {"mm": [353.2, 27.0, 389.9, 32.5], "text": "SPEAKER SCREEN"},
+   {"mm": [403.7, 25.0, 411.9, 27.2], "text": "ISSUE"},
+   {"mm": [313.5, 20.7, 322.1, 22.9], "text": "CODE:"},
+   {"mm": [323.6, 19.9, 337.7, 23.0], "text": "4ML5-16"},
+   {"mm": [359.3, 21.2, 390.6, 26.4], "text": "445-03-016"}
+  ]
+ },
+ "title_block": {
+  "mm": [290.1, 19.0, 420.5, 54.2],
+  "from": "title-block words (training set)",
+  "text": [
+   "REVSiOR",
+   "WEBS",
+   "WARD-BECK",
+   "SYSTEMS",
+   "DRN: DRC(Aug95)",
+   "M445",
+   "ENC:",
+   "EXTENDED RANGE METER",
+   "SPEAKER SCREEN",
+   "ISSUE",
+   "CODE:",
+   "4ML5-16",
+   "445-03-016"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 445-03-016, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 38–431 mm across, 2–298 mm up",
+  "- **Outlines:** line 81 rings, 1,443 straight (5,827 mm) / 164 curved (240 mm); text 481 rings, 2,980 straight (3,370 mm) / 973 curved (1,342 mm); tb 39 rings, 247 straight (315 mm) / 73 curved (91.5 mm)",
+  "- **Centre lines:** 3,643 paths (79 closed); straight 5,636 mm, curved 6.1 mm; horizontal 2,276 mm, vertical 1,602 mm, diagonal 1,758 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Closed boxes:** 12 (11 in the title block)",
+  "- **Words (OCR):** 51 in 41 lines: 2.220 · 2.060 · 080 · 0.215 · 0.335 · 1.550 · 070 · 0.130 DIA · 4 REQ'D · 0.358 · 2.300 · 2.620",
+  "- **Title block:** (290, 19)–(420, 54) mm: REVSiOR · WEBS · WARD-BECK · SYSTEMS · DRN: DRC(Aug95) · M445 · ENC: · EXTENDED RANGE METER · SPEAKER SCREEN · ISSUE · CODE: · 4ML5-16 · 445-03-016"
+ ]
+}
