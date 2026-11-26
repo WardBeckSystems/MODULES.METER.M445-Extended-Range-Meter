@@ -21,7 +21,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Closed boxes:** 32
 - **Wiring (first pass):** 12 connected wire groups from 311 runs
 
-Every curve, box, word and wire group: [1996 - M445 - B 14-304-02-001 - SA14-304 LCD-ENCODER BOARD - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-304-02-001%20-%20SA14-304%20LCD-ENCODER%20BOARD%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1996 - M445 - B 14-304-02-001 - SA14-304 LCD-ENCODER BOARD - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 14-304-02-001 - SA14-304 LCD-ENCODER BOARD - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-304-02-001%20-%20SA14-304%20LCD-ENCODER%20BOARD%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1996 - M445 - B 14-304-02-001 - SA14-304 LCD-ENCODER BOARD - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

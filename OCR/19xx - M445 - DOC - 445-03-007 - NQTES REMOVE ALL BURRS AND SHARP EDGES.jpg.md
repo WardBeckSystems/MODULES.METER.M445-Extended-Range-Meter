@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 52 in 40 lines: 0.468 DIA; · 0.775 · 2 PLC'S. · 0.400 . · TAP · 6-32 THR' · 2 PLC'S · 1.750 · 2.150 · 0.750 · 775 · 0.700
 - **Title block:** (262, 20)–(408, 64) mm: ISSUE · REVISION · ApP · DRN: WS · M445 · ENG. WS · EXTENDED RANGE METER · CKD: · APP_ · JACK · STRIP · SCALE DISC NOM: |M445 · 1:1 CODE: MM445-7 · 445-03-007 · ISSUE
 
-Every curve, box, word and wire group: [19xx - M445 - DOC - 445-03-007 - NQTES REMOVE ALL BURRS AND SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M445%20-%20DOC%20-%20445-03-007%20-%20NQTES%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20(traced).json) (the CAD file: `19xx - M445 - DOC - 445-03-007 - NQTES REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M445 - DOC - 445-03-007 - NQTES REMOVE ALL BURRS AND SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M445%20-%20DOC%20-%20445-03-007%20-%20NQTES%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `19xx - M445 - DOC - 445-03-007 - NQTES REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
 
 ## Full text
 

@@ -19,7 +19,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Circles and arcs:** 11 circles, 0 arcs; largest r 7.2 @ (305.9, 143.4), r 6.9 @ (126.1, 139.3), r 4.9 @ (125.8, 87.3), r 4.9 @ (229.9, 87.1)
 - **Closed boxes:** 8
 
-Every curve, box, word and wire group: [1996 - M445 - B 445-04-003 - M445 EXTENDED RANGE METER-MONITOR - REAR PANEL LAYOUT (traced).json](../MECHANICAL/1996%20-%20M445%20-%20B%20445-04-003%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20REAR%20PANEL%20LAYOUT%20(traced).json) (the CAD file: `1996 - M445 - B 445-04-003 - M445 EXTENDED RANGE METER-MONITOR - REAR PANEL LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 445-04-003 - M445 EXTENDED RANGE METER-MONITOR - REAR PANEL LAYOUT (traced).json](../MECHANICAL/1996%20-%20M445%20-%20B%20445-04-003%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20REAR%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `1996 - M445 - B 445-04-003 - M445 EXTENDED RANGE METER-MONITOR - REAR PANEL LAYOUT (traced).dxf`).
 
 ## Full text
 

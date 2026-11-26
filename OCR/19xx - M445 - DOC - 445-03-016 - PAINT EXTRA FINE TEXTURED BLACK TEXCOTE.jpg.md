@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 51 in 41 lines: 2.220 · 2.060 · 080 · 0.215 · 0.335 · 1.550 · 070 · 0.130 DIA · 4 REQ'D · 0.358 · 2.300 · 2.620
 - **Title block:** (290, 19)–(420, 54) mm: REVSiOR · WEBS · WARD-BECK · SYSTEMS · DRN: DRC(Aug95) · M445 · ENC: · EXTENDED RANGE METER · SPEAKER SCREEN · ISSUE · CODE: · 4ML5-16 · 445-03-016
 
-Every curve, box, word and wire group: [19xx - M445 - DOC - 445-03-016 - PAINT EXTRA FINE TEXTURED BLACK TEXCOTE (traced).json](../MECHANICAL/19xx%20-%20M445%20-%20DOC%20-%20445-03-016%20-%20PAINT%20EXTRA%20FINE%20TEXTURED%20BLACK%20TEXCOTE%20(traced).json) (the CAD file: `19xx - M445 - DOC - 445-03-016 - PAINT EXTRA FINE TEXTURED BLACK TEXCOTE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M445 - DOC - 445-03-016 - PAINT EXTRA FINE TEXTURED BLACK TEXCOTE (traced).json](../MECHANICAL/19xx%20-%20M445%20-%20DOC%20-%20445-03-016%20-%20PAINT%20EXTRA%20FINE%20TEXTURED%20BLACK%20TEXCOTE%20%28traced%29.json) (the CAD file: `19xx - M445 - DOC - 445-03-016 - PAINT EXTRA FINE TEXTURED BLACK TEXCOTE (traced).dxf`).
 
 ## Full text
 

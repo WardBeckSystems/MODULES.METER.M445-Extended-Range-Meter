@@ -21,7 +21,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Closed boxes:** 7
 - **Wiring (first pass):** 18 connected wire groups from 167 runs
 
-Every curve, box, word and wire group: [1996 - M445 - B 14-307-02-001 - SA14-307 EXTENDED RANGE METER LIGHT BAR - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-307-02-001%20-%20SA14-307%20EXTENDED%20RANGE%20METER%20LIGHT%20BAR%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1996 - M445 - B 14-307-02-001 - SA14-307 EXTENDED RANGE METER LIGHT BAR - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 14-307-02-001 - SA14-307 EXTENDED RANGE METER LIGHT BAR - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-307-02-001%20-%20SA14-307%20EXTENDED%20RANGE%20METER%20LIGHT%20BAR%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1996 - M445 - B 14-307-02-001 - SA14-307 EXTENDED RANGE METER LIGHT BAR - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

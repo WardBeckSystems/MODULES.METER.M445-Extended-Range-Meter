@@ -22,7 +22,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 221 connected wire groups from 1,903 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1996 - M445 - B 14-305-02-001-1 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-305-02-001-1%20-%20SA14-305%20STEREO%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1996 - M445 - B 14-305-02-001-1 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 14-305-02-001-1 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-305-02-001-1%20-%20SA14-305%20STEREO%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1996 - M445 - B 14-305-02-001-1 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

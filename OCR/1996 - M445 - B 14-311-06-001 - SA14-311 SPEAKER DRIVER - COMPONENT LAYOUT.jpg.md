@@ -19,7 +19,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Circles and arcs:** 15 circles, 0 arcs; largest r 6.1 @ (219.3, 190.6), r 5.3 @ (193.4, 182.6), r 4.8 @ (220.1, 138.1), r 4.8 @ (188.7, 128.1)
 - **Closed boxes:** 53
 
-Every curve, box, word and wire group: [1996 - M445 - B 14-311-06-001 - SA14-311 SPEAKER DRIVER - COMPONENT LAYOUT (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-311-06-001%20-%20SA14-311%20SPEAKER%20DRIVER%20-%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1996 - M445 - B 14-311-06-001 - SA14-311 SPEAKER DRIVER - COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 14-311-06-001 - SA14-311 SPEAKER DRIVER - COMPONENT LAYOUT (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-311-06-001%20-%20SA14-311%20SPEAKER%20DRIVER%20-%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1996 - M445 - B 14-311-06-001 - SA14-311 SPEAKER DRIVER - COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

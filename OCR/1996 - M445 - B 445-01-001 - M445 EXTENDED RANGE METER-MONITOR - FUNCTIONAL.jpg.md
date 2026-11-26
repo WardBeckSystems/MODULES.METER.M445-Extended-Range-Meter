@@ -22,7 +22,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 70 connected wire groups from 574 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1996 - M445 - B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%20445-01-001%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `1996 - M445 - B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%20445-01-001%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1996 - M445 - B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

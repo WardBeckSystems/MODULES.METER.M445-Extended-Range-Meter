@@ -22,7 +22,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Words (OCR):** 15 in 15 lines: Ww · 28 · Vl · 87 · 378238 · 88 · 38 · 22 · 373 · 28 · 88 · 853
 - **Wiring (first pass):** 91 connected wire groups from 736 runs; labelled ends: 186 mm → 38; 159 mm → 49; 141 mm → 49; 128 mm → 378238, 88; 64 mm → 8878 @
 
-Every curve, box, word and wire group: [1996 - M445 - B 14-311-02-001 - SA14-311 SPEAKER DRIVER - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-311-02-001%20-%20SA14-311%20SPEAKER%20DRIVER%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1996 - M445 - B 14-311-02-001 - SA14-311 SPEAKER DRIVER - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 14-311-02-001 - SA14-311 SPEAKER DRIVER - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%2014-311-02-001%20-%20SA14-311%20SPEAKER%20DRIVER%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1996 - M445 - B 14-311-02-001 - SA14-311 SPEAKER DRIVER - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

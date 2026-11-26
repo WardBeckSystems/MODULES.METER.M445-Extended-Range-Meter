@@ -22,7 +22,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Words (OCR):** 6 in 5 lines: 03 · 11 · Ntom+@ 0 = @ @ 2 0 8 · 59 · 03
 - **Wiring (first pass):** 65 connected wire groups from 767 runs; labelled ends: 835 mm → Ntom+@ 0 = @ @, 11, 59; 245 mm → 11, 2 0 8, 59; 189 mm → 11, 59; 167 mm → Ntom+@ 0 = @ @, 2 0 8; 139 mm → Ntom+@ 0 = @ @
 
-Every curve, box, word and wire group: [1996 - M445 - B 445-02-001 - M445 RACK MOUNT FRAME - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%20445-02-001%20-%20M445%20RACK%20MOUNT%20FRAME%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1996 - M445 - B 445-02-001 - M445 RACK MOUNT FRAME - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 445-02-001 - M445 RACK MOUNT FRAME - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%20445-02-001%20-%20M445%20RACK%20MOUNT%20FRAME%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1996 - M445 - B 445-02-001 - M445 RACK MOUNT FRAME - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

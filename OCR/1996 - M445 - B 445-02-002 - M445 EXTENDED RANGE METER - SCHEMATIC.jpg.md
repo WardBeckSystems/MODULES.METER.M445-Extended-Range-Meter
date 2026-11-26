@@ -22,7 +22,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Words (OCR):** 23 in 22 lines: ui · 72 · 2 55 · Sissvh) · Sissvh? · 72 + · JC · J0 · D0 · Nowrioj · Norinioj · IhjIJ
 - **Wiring (first pass):** 101 connected wire groups from 714 runs; labelled ends: 493 mm → 2 55, 72, Nowrioj, aND; 260 mm → 00, 57; 242 mm → 00, 57; 127 mm → 00, 33; 95 mm → 00
 
-Every curve, box, word and wire group: [1996 - M445 - B 445-02-002 - M445 EXTENDED RANGE METER - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%20445-02-002%20-%20M445%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1996 - M445 - B 445-02-002 - M445 EXTENDED RANGE METER - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 445-02-002 - M445 EXTENDED RANGE METER - SCHEMATIC (traced).json](../SCHEMATICS/1996%20-%20M445%20-%20B%20445-02-002%20-%20M445%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1996 - M445 - B 445-02-002 - M445 EXTENDED RANGE METER - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

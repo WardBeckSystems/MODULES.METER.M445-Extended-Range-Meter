@@ -33,7 +33,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Words (OCR):** 113 in 90 lines: C.R.S. 0.125 DIA · 0.750 · Fo.450-7 · F-0.250 · 0.625 · 0.150 · CR.S: 0.25 DIA · 0.375 · 0.125 · 0.210 · THROUGH · 0.128 DIA
 - **Title block:** (288, 17)–(420, 71) mm: ISSUE · REVSION · WBS · WARD-BECK SYSTEMS · DRN: DRG(8 · ENG_ · FRONT LOCK · CKD · LATCH · & BLOCK · APP · SCALE DISC NO: SysO1 · 445-03-010 · ISSUE · CODE: MM445-10
 
-Every curve, box, word and wire group: [1995 - 445-03-010 - FRONT LOCK LATCH & BLOCK - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%20445-03-010%20-%20FRONT%20LOCK%20LATCH%20%26%20BLOCK%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1995 - 445-03-010 - FRONT LOCK LATCH & BLOCK - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 445-03-010 - FRONT LOCK LATCH & BLOCK - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1995%20-%20445-03-010%20-%20FRONT%20LOCK%20LATCH%20%26%20BLOCK%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 445-03-010 - FRONT LOCK LATCH & BLOCK - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

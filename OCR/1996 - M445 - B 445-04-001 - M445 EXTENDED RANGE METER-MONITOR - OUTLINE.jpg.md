@@ -20,7 +20,7 @@ Wiki page: [M445](../../../../PAGES/M445.md)
 - **Closed boxes:** 30
 - **Dots (junctions):** 12
 
-Every curve, box, word and wire group: [1996 - M445 - B 445-04-001 - M445 EXTENDED RANGE METER-MONITOR - OUTLINE (traced).json](../MECHANICAL/1996%20-%20M445%20-%20B%20445-04-001%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20OUTLINE%20(traced).json) (the CAD file: `1996 - M445 - B 445-04-001 - M445 EXTENDED RANGE METER-MONITOR - OUTLINE (traced).dxf`).
+Every curve, box, word and wire group: [1996 - M445 - B 445-04-001 - M445 EXTENDED RANGE METER-MONITOR - OUTLINE (traced).json](../MECHANICAL/1996%20-%20M445%20-%20B%20445-04-001%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20OUTLINE%20%28traced%29.json) (the CAD file: `1996 - M445 - B 445-04-001 - M445 EXTENDED RANGE METER-MONITOR - OUTLINE (traced).dxf`).
 
 ## Full text
 
