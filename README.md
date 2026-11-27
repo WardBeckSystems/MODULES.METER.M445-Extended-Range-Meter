@@ -13,6 +13,214 @@ Ward-Beck Systems M445, 1995|28. Wiki page: [M445 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 91 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1996 - M445 - 6.jpg](MANUALS/1996%20-%20M445%20-%206.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Audio inputs** | Rear mounted screw-type barrier strip connects audio to the meter when docked: This input is interrupted by the front panel long frame jacks |
+| **Audio output** | Output Impedance: 60 ohms or less; balanced |
+| **Load impedance** | 5000 ohms or greater; balanced: |
+| **Output level** | +4 dBu for 0 VU indication: (+l6 dBu maximum) |
+| **Power requirements** | 24 volts DC, 500 mA Provided by &amp; 24 volt ac wall adapter (supplied) |
+| **Dimensions** | 19&quot; wide X 3.5&quot; high x 12&quot; deep. (485 mm x 90 mm x 305 mm) e 12.3 lbs (5.6 kg):,.. |
+| **Weight** | 4u. 3: 0' ~i T36'. |
+
+## Circuit description
+
+From [1996 - M445 - 14-304-02-001 - SCHEMATIC.wp](MANUALS/1996%20-%20M445%20-%2014-304-02-001%20-%20SCHEMATIC.wp) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+2 Parts List 2-1 to 2-93 Drawings:
+
+Schematic B 14-305-02-001/1 Schematic B 14-305-02-001/2 Component Layout B 14-305-06-001
+
+B SA14-304 LCD/Encoder Board
+
+1 Circuit Description 1-12 Parts List 2-13 Drawings:
+
+Schematic B 14-304-02-001 Component Layout A 14-304-06-001
+
+C SA14-307 Light Bar Board Assembly
+
+1 General 1-12 Circuit Description 3 Parts List 4 Drawings:
+
+Schematic B 14-307-02-001 Component Layout B 14-307-06-001
+
+D SA14-311 Speaker Driver Assembly
+
+1 Circuit Description 1-12 Parts List 2-1 to 2-33 Drawings:
+
+Schematic B 14-311-02-001 Component Layout B 14-311-06-001 A. Transportable Meter
+
+Range: -60 dBu to +30 dBu in 1 dB steps fora reading of 0 VU.
+
+Input Selection: ADC PJ339 type jack on front panel provides direct input, breaking the source on the meters' docking connector.
+
+Source Impedance: 600 or 150 ohms for dBm readings, 600 ohms or less for dBu reading.
+
+Input Impedance: 150,600, or greater than 20,000 ohms.
+
+Attenuator Tracking: ±0.2 dB per step. (non-cumulative).
+
+Meter Ballistics: Comply with ANSI C16.5.
+
+High Pass Filter: -3 dB at 75 Hz.
+
+Frequency Response: ±0.2 dB from 20 Hz to 20 kHz.
+
+Total Harmonic Distortion:
+
+Headset Output: Less than 1%, 20 Hz to 20 kHz.
+
+Measured at any input level and +8 dBu output level.
+
+Typically less than 0.25% with a -2 dBu output level.
+
+Noise: Better than 40 dB below 0 VU reference for all sensitivities.
+
+Output Impedance:
+
+Headset Output: 300 ohms.
+
+Load Impedance:
+
+Headset Output: 600 ohms or greater.
+
+Output Level:
+
+Headset Output: -2 dBu at 0 VU reference, +8 dBu maximum.
+
+Power Source: 4 Panasonic P-60AA re-chargeable NiCd batteries (supplied).
+
+Dimensions: 11.75&quot; wide x 3.5&quot; 8.25&quot; deep (300 mm x 90 mm x 210 mm)
+
+Weight: 4.4 lbs. (2 kg).
+
+B. Rack Mounted Meter Dock
+
+Audio Inputs: Rear mounted screw-type barrier strip connects audio to the meter when docked. This input is interrupted by the front panel long frame jacks.
+
+Audio Output:
+
+Output Impedance: 60 ohms or less, balanced.
+
+Load Impedance: 5000 ohms or greater, balanced.
+
+Output Level: +4 dBu for 0 VU indication. (+16 dBu maximum).
+
+Power Requirements: 24 volts DC, 500 mA.
+
+Provided by a 24 volt ac wall adapter (supplied)
+
+Dimensions: 19&quot; wide x 3.5&quot; high x 12&quot; deep.
+
+(485 mm x 90 mm x 305 mm).
+
+Weight: 12.3 lbs (5.6 kg).
+
+The M445 Extended Range Meter/Monitor combines two instruments in one: A rack-mounted frame and a portable extended range meter, for the measurement and monitoring of stereo analog audio signals.
+
+When the M445 is docked in it's rack mounted frame, the sophisticated battery management circuitry places the battery in &quot;quick-charge&quot; while it assesses the battery condition. The circuitry continuously manages the battery while the meter is docked.
+
+When docked; the M445 activates the meter illumination and speaker amplifiers, enabling confidence monitoring of the measured audio source.
+
+An audio source maybe permanently connected to the rack mounted assembly. This source is connected to the meter directly; whenever there are no plugs present in the M445 front panel long frame jacks. Interruption of the audio connected to the rack chassis allows the M445 to bridge across an audio source on a day today basis, while providing the ability to &quot;patch in&quot; a different audio feed.
+
+A rotary encoder controls the precision attenuator integral to the M445. The liquid crystal display indicates the reference level indicated at the 0 VU position on the meters. The display also indicates whether or not the unit requires charging (by the &quot;lo bat&quot; indicator). If the battery voltage is too low for the M445 to operate accurately; the &quot;low bat&quot; will illuminate, but no digits will be visible in the display. This condition will persist until the meter is docked.
+
+Pushbuttons within the M445 allow you to bridge or match the measured source. When placed in matching mode, either a 600 or 150 Ohm load is presented to the source. Stereo phase integrity can be confirmed by placing the M445 into sum and difference mode. The sum of the left and right input signal is presented on the left-hand meter; and the algebraic difference is demonstrated on the right-hand meter.
+
+The M445 contains a -18 dB per octave high-pass filter. When selected, this filter provides low frequency rejection of hum by -3dB at 75 Hz. The 1/4&quot; standard TRS receptacle on the front panel is capable of driving a 600 ohm headset to a comfortable listening level. Additional monitoring of the measured audio maybe done through the rear mounted terminal strip. This output maybe used to drive an additional audio power amplifier.
+
+The meter docking assembly is powered by an ac adapter, which furnishes 24 volts DC to the dock. This power is distributed to the speaker amplifiers, and to the meter (when docked). The dock; through it's rear-mounted barrier strip and docking connector, distributes all of the power and audio signals through the meter system.
+
+Two security features are standard. A front panel lock prevents the meter from being extracted when engaged. A second locking screw, accessible at the rear of the docking frame, provides a more permanent security lock. Refer to Front Panel drawing B 445-04-002
+
+1) Left Channel VU Meter
+
+Meter which indicates the volume units (in dBu) of the input audio signal. A sinusoidal waveform will indicate '0' on this meter when it's amplitude matches the sensitivity indicated on the liquid crystal display. Under normal operating conditions, this meter indicates the signal level of the left channel.
+
+When &quot;sum and difference&quot; mode is selected by mode switch (3), this meter will display the algebraic sum of the left and right channel audio signal.
+
+2) Right Channel VU Meter
+
+Operates as (1), except in normal operation right channel audio is displayed. In &quot;sum and difference&quot; mode, this meter indicates the difference between the left and right channel audio. The difference indication is useful for verifying stereo phase coherence.
+
+3) Mode Switch
+
+When depressed, places the M445 in &quot;sum an difference&quot; mode; otherwise discrete left and right signal levels are displayed on their associated meters.
+
+4) HP Filter Switch
+
+Normally, the M445 measures the audio signal across the full audible band. When assigned, the high pass filter attenuates frequencies below it's 75 Hz corner at a rate of -18 dB per octave.
+
+5) Termination Switch
+
+When released, the termination switch allows the meter to present abridging load to the audio source. Once depressed, the impedance selected by the Impedance Selector (Z), is connected across the audio input terminals.
+
+6) Impedance Selector
+
+This switch terminates the input source with 600 ohms (relaxed) or 150 ohms (engaged): provided the termination switch has been actuated.
+
+7) Monitor Receptacle
+
+A 1/4&quot; standard TRS (tip-ring-sleeve) stereo receptacle for monitoring the metered audio signal. This jack provides a high quality, full bandwidth monitor output. Good quality, high impedance (&gt;600 ohms) headphones will provide optimum audio fidelity.
+
+8) Left and Right Front Panel Inputs
+
+Telephone style, balanced, long frame 1/4&quot; jacks, which have the rear chassis input &quot;normalled&quot; through. When a plug (ADC PJ-2 or equivalent) is inserted, the rear chassis input audio is interrupted, allowing any audio present at the front panel to be measured and/or monitored.
+
+9) Power Switch
+
+Powers the meter's active circuitry, exclusive of the battery management system. When docked; engaging the power switch also activates the meter illumination and the power amplifier which drives the speakers.
+
+10) Liquid Crystal Sensitivity Display
+
+Controlled by (11), this display indicates the audio reference level in dBu. When &quot;lo batt&quot; is displayed in the display, the batteries require charging; which is accomplished whenever the meter is &quot;docked&quot;. Should the batteries deplete to a point where accurate measurements are no longer possible, the audio reference display will blank: However, the &quot;lo batt&quot; will still be visible.
+
+11) Sensitivity Adjustment Control
+
+A rotary encoder which sets the reference level fora '0' indication on the meters of the M445.12) Security Latch
+
+When engaged, this latch prevents the M445 from being extracted.
+
+13) Speaker Level Control
+
+This rotary control adjusts the level of the audio in the monitor speakers.
+
+14) Right Channel Speaker
+
+In &quot;normal&quot; mode, right channel audio maybe monitored via this speaker. In &quot;sum and difference&quot; mode, the difference signal will be present through this speaker.
+
+15) Left Channel Speaker
+
+Discrete left channel audio is monitored in this speaker in &quot;normal&quot; mode, while in &quot;sum and difference&quot;, this speaker contains the sum (L+R) signal. Rack Mounted Dock
+
+Refer to Rear Panel drawing B 445-04-003
+
+16) Power Input Connector
+
+This connector mates with the ring-lock cable plug from the external power supply. Twenty-four volts (+24V) DC at 500 mA is required by the M445.
+
+17) Power Fuse
+
+A 1/2 amp, slow-blow fuse to protect the entire M445 from a fault condition. 18) Rear Chassis Connector
+
+Audio inputs (&quot;normalled&quot; through the front panel jacks), and audio monitor outputs maybe connected to external equipment on this barrier strip.
+
+19) Rear Chassis Security Screw
+
+A captive screw which; when engaged, prevents the meter from being withdrawn from the rack mount frame regardless of the position of the front panel lock.
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

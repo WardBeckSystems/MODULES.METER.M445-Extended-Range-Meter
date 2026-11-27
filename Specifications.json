@@ -1,0 +1,117 @@
+{
+ "module": "M445",
+ "title": "M445 EXTENDEDRANGE METERMONTOR",
+ "source": {
+  "file": "MANUALS/1996 - M445 - 6.jpg",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Audio inputs",
+   "key": "audio_input",
+   "text": "Rear mounted screw-type barrier strip connects audio to the meter when docked: This input is interrupted by the front panel long frame jacks"
+  },
+  {
+   "name": "Audio output",
+   "key": "audio_output",
+   "text": "Output Impedance: 60 ohms or less; balanced",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "5000 ohms or greater; balanced:",
+   "quantities": [
+    {
+     "value": 5000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+4 dBu for 0 VU indication: (+l6 dBu maximum)",
+   "quantities": [
+    {
+     "value": 4,
+     "unit": "dBu"
+    },
+    {
+     "value": 6,
+     "unit": "dBu"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "24 volts DC, 500 mA Provided by & 24 volt ac wall adapter (supplied)",
+   "quantities": [
+    {
+     "value": 24,
+     "unit": "volts DC"
+    },
+    {
+     "value": 500,
+     "unit": "mA"
+    },
+    {
+     "value": 24,
+     "unit": "volt ac"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "19\" wide X 3.5\" high x 12\" deep. (485 mm x 90 mm x 305 mm) e 12.3 lbs (5.6 kg):,..",
+   "quantities": [
+    {
+     "value": 19,
+     "unit": "\""
+    },
+    {
+     "value": 3.5,
+     "unit": "\""
+    },
+    {
+     "value": 12,
+     "unit": "\""
+    },
+    {
+     "value": 485,
+     "unit": "mm"
+    },
+    {
+     "value": 90,
+     "unit": "mm"
+    },
+    {
+     "value": 305,
+     "unit": "mm"
+    },
+    {
+     "value": 12.3,
+     "unit": "lbs"
+    },
+    {
+     "value": 5.6,
+     "unit": "kg"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "4u. 3: 0' ~i T36'."
+  }
+ ]
+}
