@@ -4,13 +4,11 @@ Ward-Beck Systems M445, 1995|28. Wiki page: [M445 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 44 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 28 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 31 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 43 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 37 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 30 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 76 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -248,15 +246,20 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1LRXvBOKQ60yQLWiFxY6YYXRJpYYd7m5t/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1LRXvBOKQ60yQLWiFxY6YYXRJpYYd7m5t" width="240" alt="19xx - M445 - DOC - 445-03-028 - NQTES REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg"></a><br><sub>19xx - M445 - DOC - 445-03-028 - NQTES REMOVE ALL BURRS AND SHARP EDGES TOLERANCES · <a href="MECHANICAL/19xx%20-%20M445%20-%20DOC%20-%20445-03-028%20-%20NQTES%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20TOLERANCES%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1995 - 445-03-010 - FRONT LOCK LATCH & BLOCK - DRN DRG - ISS 1.jpg`, `1995 - 445-03-016 - EXTENDED RANGE METER SPEAKER SCREEN - DRN DRG - ISS 1.jpg`, `19xx - 445-03-011 - M445A EXTENDED RANGE METER BATTERY HOLDER & CLIP - DRN WS - ENG WS - ISS 2.jpg`
+## 3-D model
+
+[`MECHANICAL/M445.stl`](MECHANICAL/M445.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M445)
+
+- **Size:** 485 × 90 mm panel, 305 mm deep, 3.2 mm plate (TECHNICAL DATA: 19" wide X 3.5" high x 12" deep. (485 mm x 90 mm x 305 mm) e 12.3 lbs (5.6 kg):,..)
+- **From the drawing:** 3 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M445 - front panel.svg`)
+- the drawn panel is 3.40 wide to high, the size 5.39: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M445.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN1YweDg5bTVsMnM/view?resourcekey=0-YfqZmpJKv0D1zv9WklJ_5w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN1YweDg5bTVsMnM&resourcekey=0-YfqZmpJKv0D1zv9WklJ_5w" width="240" alt="1996 - M445 - [DWG 14-304-02-001] - SA14-304 LCD-ENCODER BOARD - SCHEMATIC.jpg"></a><br><sub>1996|29 · B 14-304-02-001 - SA14-304 LCD-ENCODER BOARD - SCHEMATIC · <a href="SCHEMATICS/1996%20-%20M445%20-%20%5BDWG%2014-304-02-001%5D%20-%20SA14-304%20LCD-ENCODER%20BOARD%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbXdEMnVXdi1fVlE/view?resourcekey=0-4bbe6DQHi_qJIOckPzMzYw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbXdEMnVXdi1fVlE&resourcekey=0-4bbe6DQHi_qJIOckPzMzYw" width="240" alt="1996 - M445 - [DWG 14-305-02-001]-1 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC.jpg"></a><br><sub>1996|29 · B 14-305-02-001-1 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC · <a href="SCHEMATICS/1996%20-%20M445%20-%20%5BDWG%2014-305-02-001%5D-1%20-%20SA14-305%20STEREO%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTldWR3BMcmFhY3c/view?resourcekey=0-tk9PUVfmgNg68aFghKkz7A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTldWR3BMcmFhY3c&resourcekey=0-tk9PUVfmgNg68aFghKkz7A" width="240" alt="1996 - M445 - [DWG 14-305-02-001]-2 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC.jpg"></a><br><sub>1996|29 · B 14-305-02-001-2 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC · <a href="SCHEMATICS/1996%20-%20M445%20-%20%5BDWG%2014-305-02-001%5D-2%20-%20SA14-305%20STEREO%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKajVSSE1jWVZXYUU/view?resourcekey=0-Hn7jj3DJMvS3Fvo2jhVyhA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKajVSSE1jWVZXYUU&resourcekey=0-Hn7jj3DJMvS3Fvo2jhVyhA" width="240" alt="1996 - M445 - [DWG 14-307-02-001] - SA14-307 EXTENDED RANGE METER LIGHT BAR - SCHEMATIC.jpg"></a><br><sub>1996|29 · B 14-307-02-001 - SA14-307 EXTENDED RANGE METER LIGHT BAR - SCHEMATIC · <a href="SCHEMATICS/1996%20-%20M445%20-%20%5BDWG%2014-307-02-001%5D%20-%20SA14-307%20EXTENDED%20RANGE%20METER%20LIGHT%20BAR%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZDVYcFl4c2hRV1U/view?resourcekey=0-r480LZ3tfZ6PeWMIrduchQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZDVYcFl4c2hRV1U&resourcekey=0-r480LZ3tfZ6PeWMIrduchQ" width="240" alt="1996 - M445 - [DWG 14-311-02-001] - SA14-311 SPEAKER DRIVER - SCHEMATIC.jpg"></a><br><sub>1996|29 · B 14-311-02-001 - SA14-311 SPEAKER DRIVER - SCHEMATIC · <a href="SCHEMATICS/1996%20-%20M445%20-%20%5BDWG%2014-311-02-001%5D%20-%20SA14-311%20SPEAKER%20DRIVER%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWWZQLXViXzJ5cDg/view?resourcekey=0-mRXPQ2AllOUuyGBf7rYh2w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWWZQLXViXzJ5cDg&resourcekey=0-mRXPQ2AllOUuyGBf7rYh2w" width="240" alt="1996 - M445 - [DWG 14-311-06-001] - SA14-311 SPEAKER DRIVER - COMPONENT LAYOUT.jpg"></a><br><sub>1996|29 · B 14-311-06-001 - SA14-311 SPEAKER DRIVER - COMPONENT LAYOUT · <a href="SCHEMATICS/1996%20-%20M445%20-%20%5BDWG%2014-311-06-001%5D%20-%20SA14-311%20SPEAKER%20DRIVER%20-%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN2NWVC1oZEZ1M28/view?resourcekey=0-dBlOz2WjR6KGeyh5dESJLw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN2NWVC1oZEZ1M28&resourcekey=0-dBlOz2WjR6KGeyh5dESJLw" width="240" alt="1996 - M445 - B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL.jpg"></a><br><sub>1996|29 · B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL · <a href="SCHEMATICS/1996%20-%20M445%20-%20B%20445-01-001%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbE00LUhFVlZiaU0/view?resourcekey=0-ZAUOsO60GbSBSncepygFTQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbE00LUhFVlZiaU0&resourcekey=0-ZAUOsO60GbSBSncepygFTQ" width="240" alt="1996 - M445 - B 445-02-001 - M445 RACK MOUNT FRAME - SCHEMATIC.jpg"></a><br><sub>1996|29 · B 445-02-001 - M445 RACK MOUNT FRAME - SCHEMATIC · <a href="SCHEMATICS/1996%20-%20M445%20-%20B%20445-02-001%20-%20M445%20RACK%20MOUNT%20FRAME%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY00zQkJRTl9pb0k/view?resourcekey=0-nlNAkgbF57ogM8FTAgGXxQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY00zQkJRTl9pb0k&resourcekey=0-nlNAkgbF57ogM8FTAgGXxQ" width="240" alt="1996 - M445 - B 445-02-002 - M445 EXTENDED RANGE METER - SCHEMATIC.jpg"></a><br><sub>1996|29 · B 445-02-002 - M445 EXTENDED RANGE METER - SCHEMATIC · <a href="SCHEMATICS/1996%20-%20M445%20-%20B%20445-02-002%20-%20M445%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
@@ -279,16 +282,15 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
+- [1996 - M445 - B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL.kicad_sch](KICAD/1996%20-%20M445%20-%20B%20445-01-001%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20FUNCTIONAL.kicad_sch)
+- [1996 - M445 - B 445-02-001 - M445 RACK MOUNT FRAME - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20B%20445-02-001%20-%20M445%20RACK%20MOUNT%20FRAME%20-%20SCHEMATIC.kicad_sch)
+- [1996 - M445 - B 445-02-002 - M445 EXTENDED RANGE METER - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20B%20445-02-002%20-%20M445%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC.kicad_sch)
 - [1996 - M445 - [DWG 14-304-02-001] - SA14-304 LCD-ENCODER BOARD - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20%5BDWG%2014-304-02-001%5D%20-%20SA14-304%20LCD-ENCODER%20BOARD%20-%20SCHEMATIC.kicad_sch)
 - [1996 - M445 - [DWG 14-305-02-001]-1 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20%5BDWG%2014-305-02-001%5D-1%20-%20SA14-305%20STEREO%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC.kicad_sch)
 - [1996 - M445 - [DWG 14-305-02-001]-2 - SA14-305 STEREO EXTENDED RANGE METER - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20%5BDWG%2014-305-02-001%5D-2%20-%20SA14-305%20STEREO%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC.kicad_sch)
 - [1996 - M445 - [DWG 14-307-02-001] - SA14-307 EXTENDED RANGE METER LIGHT BAR - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20%5BDWG%2014-307-02-001%5D%20-%20SA14-307%20EXTENDED%20RANGE%20METER%20LIGHT%20BAR%20-%20SCHEMATIC.kicad_sch)
 - [1996 - M445 - [DWG 14-311-02-001] - SA14-311 SPEAKER DRIVER - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20%5BDWG%2014-311-02-001%5D%20-%20SA14-311%20SPEAKER%20DRIVER%20-%20SCHEMATIC.kicad_sch)
-- [1996 - M445 - B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL.kicad_sch](KICAD/1996%20-%20M445%20-%20B%20445-01-001%20-%20M445%20EXTENDED%20RANGE%20METER-MONITOR%20-%20FUNCTIONAL.kicad_sch)
-- [1996 - M445 - B 445-02-001 - M445 RACK MOUNT FRAME - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20B%20445-02-001%20-%20M445%20RACK%20MOUNT%20FRAME%20-%20SCHEMATIC.kicad_sch)
-- [1996 - M445 - B 445-02-002 - M445 EXTENDED RANGE METER - SCHEMATIC.kicad_sch](KICAD/1996%20-%20M445%20-%20B%20445-02-002%20-%20M445%20EXTENDED%20RANGE%20METER%20-%20SCHEMATIC.kicad_sch)
 - [M445.kicad_sym](KICAD/M445.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
