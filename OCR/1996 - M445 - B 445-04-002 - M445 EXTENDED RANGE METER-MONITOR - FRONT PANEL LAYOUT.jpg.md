@@ -1,5 +1,5 @@
 # 1996 - M445 - B 445-04-002 - M445 EXTENDED RANGE METER-MONITOR - FRONT PANEL LAYOUT.jpg
-Wiki page: [M445](../../../../PAGES/M445.md)
+Wiki page: [M445](../)
 
 
 - **Year:** 1996 (module estimate (manual_issue))

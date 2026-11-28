@@ -1,5 +1,5 @@
 # 1995 - 445-03-010 - FRONT LOCK LATCH & BLOCK - DRN DRG - ISS 1.jpg
-Wiki page: [M445](../../../../PAGES/M445.md)
+Wiki page: [M445](../)
 
 
 - **Year:** 1995 (title block date)

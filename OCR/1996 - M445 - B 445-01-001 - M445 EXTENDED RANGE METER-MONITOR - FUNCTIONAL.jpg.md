@@ -1,5 +1,5 @@
 # 1996 - M445 - B 445-01-001 - M445 EXTENDED RANGE METER-MONITOR - FUNCTIONAL.jpg
-Wiki page: [M445](../../../../PAGES/M445.md)
+Wiki page: [M445](../)
 
 
 - **Year:** 1996 (module estimate (manual_issue))

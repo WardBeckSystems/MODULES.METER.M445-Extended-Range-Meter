@@ -1,5 +1,5 @@
 # 1996 - M445 - B 14-311-02-001 - SA14-311 SPEAKER DRIVER - SCHEMATIC.jpg
-Wiki page: [M445](../../../../PAGES/M445.md)
+Wiki page: [M445](../)
 
 
 - **Year:** 1996 (module estimate (manual_issue))

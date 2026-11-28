@@ -1,5 +1,5 @@
 # 1996 - M445 - B 14-304-02-001 - SA14-304 LCD-ENCODER BOARD - SCHEMATIC.jpg
-Wiki page: [M445](../../../../PAGES/M445.md)
+Wiki page: [M445](../)
 
 
 - **Year:** 1996 (module estimate (manual_issue))

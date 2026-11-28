@@ -1,5 +1,5 @@
 # 1996 - M445 - Archived - M445 - EXTENDED RANGE METER - MONITOR 002.jpg
-Wiki page: [M445](../../../../PAGES/M445.md)
+Wiki page: [M445](../)
 
 
 - **Year:** 1996 (module estimate (manual_issue))

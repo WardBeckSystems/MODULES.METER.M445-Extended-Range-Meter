@@ -1,6 +1,6 @@
 # M445 Extended Range Meter · Meter
 
-Ward-Beck Systems M445, 1995|28. Wiki page: [M445 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M445.html)
+Ward-Beck Systems M445, 1995|28. Wiki page: [M445 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|
